@@ -17,8 +17,9 @@ body {
   }
 .header--second {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 300
+    font-weight: 300;
     font-size: 42px;
+    color: white;
   }
 
 .header--third {
@@ -26,3 +27,7 @@ body {
     font-size: 21px;
     color: gray;
   }
+.far .fa-copyright {
+    text-align: right;
+    color: gray;
+}
