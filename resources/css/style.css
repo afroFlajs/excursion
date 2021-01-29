@@ -1,0 +1,17 @@
+body {
+    background-color: #000000;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .link--cta {
+      color: aquamarine;
+      font-size: 16px;
+  }
+  
+  .header--main {
+      font-size: 50px;
+      color: white;
+      text-align: center;
+      font-weight: normal;
+  }
